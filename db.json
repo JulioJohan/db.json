@@ -1,0 +1,119 @@
+{
+    "usuarios": [
+      {
+        "id": 1,
+        "usuario": "Equipo",
+        "email": "equipo@gmail.com"
+      }
+    ],
+    "celulares":[
+        {
+            "id":"one-plus-9",
+            "tiulo": "OnePlus 9",
+            "precio":"16,000",
+            "marca":"OnePlus",
+            "procesador":"Snapdragon 888",
+            "pantalla":"pantalla AMOLED de 6,55"
+            
+        },
+        {
+            "id":"samsung-s21",
+            "tiulo": "Samsung Galaxy S21",
+            "precio":"19,000",
+            "marca":"Samsung",
+            "procesador":"Exynos 2100",
+            "pantalla":"pantalla a 120 Hz"
+            
+        },
+        {
+            "id":"xiaomi-mi",
+            "tiulo": "Xiaomi Mi 11",
+            "precio":"18,000",
+            "marca":"Xiaomi",
+            "procesador":"Snapdragon 888",
+            "pantalla":"6,81 pulgadas, AMOLED, QHD y a hasta 120 Hz de refresco."
+            
+        },
+        {
+            "id":"samsumg-s20+",
+            "tiulo": "Samsung Galaxy S20+",
+            "precio":"19,000",
+            "marca":"Samsung",
+            "procesador":"Exynos 990",
+            "pantalla":"AMOLED QHD a hasta 120 Hz"
+            
+        },
+        {
+            "id":"samsung-s20fe",
+            "tiulo": "Samsung Galaxy S20 FE ",
+            "precio":"14,000",
+            "marca":"samsung",
+            "procesador":"Snapdragon 865",
+            "pantalla":"AMOLED a hasta 120 Hz d"
+            
+        },
+        {
+            "id":"xiaomi-mi10",
+            "tiulo": "Xiaomi Mi 10T Pro",
+            "precio":"12,000",
+            "marca":"Xiaomi",
+            "procesador":"Snapdragon 865",
+            "pantalla":"IPS de 6,67 pulgadas, con resolución Full HD+ y una velocidad de refresco que llega a los 144 Hz."
+            
+        },
+        {
+            "id":"huawei-p40",
+            "tiulo": "Huawei P40 Pro",
+            "precio":"19,000",
+            "marca":"Huawei",
+            "procesador":"Kirin 990",
+            "pantalla":"OLED a 90 Hz de refresco"
+            
+        },
+        {
+            "id":"oppo-find-x2",
+            "tiulo": "OPPO Find X2 Neo",
+            "precio":"14500",
+            "marca":"Oppo",
+            "procesador":"Snapdragon 765G ",
+            "pantalla":"Una pantalla FHD+, AMOLED y con una tasa de refresco de 90 Hz. "
+            
+        },
+        {
+            "id":"oneplus-8t",
+            "tiulo": "OnePlus 8T",
+            "precio":"13,500",
+            "marca":"One Plus",
+            "procesador":"Snapdragon 865",
+            "pantalla":"AMOLED a hasta 120 Hz."
+            
+        },
+        {
+            "id":"oneplus-8",
+            "tiulo": "OnePlus 8",
+            "precio":"13700",
+            "marca":"One Plus ",
+            "procesador":"Snapdragon 865 ",
+            "pantalla":"AMOLED de 6,55 pulgadas y con una tasa de refresco de 90 Hz"
+            
+        },
+        {
+            "id":"xiaomi-poco-f2",
+            "tiulo": "Xiaomi Poco F2 Pro",
+            "precio":"11,200",
+            "marca":"Xiaomi",
+            "procesador":"Snapdragon 865",
+            "pantalla":" AMOLED FHD+"
+            
+        },
+        {
+            "id":"realme-x3",
+            "tiulo": "Realme X3 SuperZoom",
+            "precio":"11,200",
+            "marca":"Realme ",
+            "procesador":"Snapdragon 855+",
+            "pantalla":"LCD a 120 Hz"
+            
+        }
+    ] 
+}
